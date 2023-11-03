@@ -1,1 +1,2 @@
-# LLM-details
+- List out the LLMs and their access details
+- Build a Streamlit app which uses any one these LLMs for building a chatbot
